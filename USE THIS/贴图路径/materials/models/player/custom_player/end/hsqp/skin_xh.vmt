@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/custom_player/end/hsqp/skin_xh"
+	"$lightwarptexture"		"models/player/custom_player/end/public/lw"
+
+	"$halflambert"	1
+	"$nodecal"	1
+}
